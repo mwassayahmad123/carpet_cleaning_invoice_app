@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Five Star Invoice",
+    "slug": "carpet-cleaning-invoice",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fivestar.invoice",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.fivestar.invoice"
+    },
+    "web": {}
+  }
+}
