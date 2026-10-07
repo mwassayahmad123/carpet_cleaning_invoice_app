@@ -1,6 +1,6 @@
 const COMPANY = {
   name: 'Five Star Carpet Cleaning Services LTD',
-  address: '6 Frith Road, London',
+  address: '8 Kirkwall Spur, SL1 3XY, Slough',
   phone: '+44 7871 062227',
   whatsapp: '+44 7871 062227',
   email: 'fivestarservicesltduk@gmail.com',
@@ -8,10 +8,10 @@ const COMPANY = {
 };
 
 const BANK = {
-  accountName: 'Five Star Service',
-  sortCode: '04-00-06',
-  accountNumber: '27998322',
-  bank: 'Monzo',
+  accountName: 'FIVE STAR CARPET CLEANING SERVICES LTD',
+  sortCode: '20-03-84',
+  accountNumber: '03651835',
+  bank: 'Barclays',
   type: 'Business Account',
 };
 
