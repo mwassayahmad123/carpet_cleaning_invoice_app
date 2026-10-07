@@ -19,7 +19,7 @@ import { buildInvoiceHtml, buildInvoiceMeta, buildInvoiceText } from './invoiceT
 
 const COMPANY = {
   name: 'Five Star Carpet Cleaning Services LTD',
-  address: '6 Frith Road, London',
+  address: '8 Kirkwall Spur, SL1 3XY, Slough',
   phone: '+44 7871 062227',
   whatsapp: '+44 7871 062227',
   email: 'fivestarservicesltduk@gmail.com',
